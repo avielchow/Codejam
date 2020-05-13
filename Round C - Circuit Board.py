@@ -1,4 +1,5 @@
 #This is time limit exceeded at the moment
+#https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2/0000000000150aae
 
 import numpy as np
 
